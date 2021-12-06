@@ -1,6 +1,6 @@
 namespace RestaurantNMV
 {
-    public class WeatherForecast
+    public class Startup
     {
         public DateTime Date { get; set; }
 
