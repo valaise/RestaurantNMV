@@ -10,7 +10,7 @@ namespace RestaurantNMV.Controllers
             [Route("api/[controller]")]
             public class DishesController : Controller
             {
-                [HttpGet]
+                [H]
                 public IEnumerable<Dish> Get()
                 {
                     return new[]
